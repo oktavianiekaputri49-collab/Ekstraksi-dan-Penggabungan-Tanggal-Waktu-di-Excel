@@ -1,0 +1,40 @@
+📊 Ekstraksi dan Penggabungan Tanggal & Waktu di Excel
+Deskripsi
+Proyek ini berfokus pada ekstraksi dan pengolahan data tanggal serta waktu menggunakan Microsoft Excel agar data dapat dipisahkan menjadi komponen yang lebih spesifik dan kemudian digabungkan kembali secara terstruktur.
+
+Dataset
+Data terdiri dari:
+Tanggal lahir (format tanggal)
+Tahun
+Bulan
+Tanggal
+Waktu (jam:menit:detik)
+Jam
+Menit
+Detik
+Contoh:
+10/4/2000 → Tahun: 2000 | Bulan: 10 | Tanggal: 4
+11:12:09 → Jam: 11 | Menit: 12 | Detik: 9
+
+Tools & Teknik yang Digunakan
+Microsoft Excel
+Fungsi tanggal (YEAR, MONTH, DAY)
+Fungsi waktu (HOUR, MINUTE, SECOND)
+Penggabungan data (format ulang tanggal & waktu)
+Data formatting
+
+Hasil
+Data tanggal dan waktu berhasil dipisahkan menjadi beberapa komponen
+Data dapat digabungkan kembali ke format semula
+Format data menjadi lebih rapi dan konsisten
+
+Tujuan Proyek
+Melatih penggunaan fungsi tanggal dan waktu di Excel
+Memahami struktur data berbasis waktu
+Meningkatkan kemampuan manipulasi dan formatting data
+
+Insight
+Pengolahan data tanggal dan waktu sangat penting dalam analisis data, terutama untuk memahami pola berdasarkan waktu dan memastikan format data konsisten.
+
+Penutup
+Proyek ini merupakan latihan dasar dalam pengolahan data tanggal dan waktu menggunakan Microsoft Excel sebagai bagian dari pengembangan skill di bidang data.
